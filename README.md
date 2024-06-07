@@ -51,6 +51,7 @@ Alternatively, you can download the project files as a zip archive and extract t
 <li>
 Open the index.html file in a web browser to view the magazine.</li>
 </ul>
+
 ## Usage
 
 To use the Magazine project:
