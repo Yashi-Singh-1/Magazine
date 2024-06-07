@@ -41,15 +41,16 @@ The content of the magazine emphasizes project-based learning, with articles dis
 ## Installation
 
 To install the Magazine project locally, follow these steps:
+<ul>
+  <li>Clone the repository to your local machine using Git:</li><br>
 
-Clone the repository to your local machine using Git:
 
 git clone https://github.com/Yashi-Singh-1/Magazine
 
 Alternatively, you can download the project files as a zip archive and extract them to your desired location.
-
-Open the index.html file in a web browser to view the magazine.
-
+<li>
+Open the index.html file in a web browser to view the magazine.</li>
+</ul>
 ## Usage
 
 To use the Magazine project:
